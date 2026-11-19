@@ -1,4 +1,8 @@
-# Canny_Laplacian_Sombel_EdgeDetection_DIPT
+# Canny_Laplacian_Sobel_EdgeDetection_DIPT
+
+## Aim:
+
+To develop a code to demonstrate Sobel, Laplacian and Canny Edge Detection.
 
 ## Program:
 
